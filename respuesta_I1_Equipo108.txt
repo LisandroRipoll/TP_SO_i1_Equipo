@@ -1,0 +1,9 @@
+Bruno Chuquimia
+Brandon Zarate
+Lisandro Ripoll
+
+a-¿ALFA ve los datos que cargaron los demás en su repositorio?
+-Si, una vez hacen el push puedo ver los archivos modificados por BETTA y GAMMA.
+
+b-¿Si ALFA agrega un archivo los demás integrantes lo ven?
+Si, cada modificación se actualiza al repositorio.
