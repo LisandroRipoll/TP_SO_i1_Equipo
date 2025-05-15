@@ -7,3 +7,9 @@ a-¿ALFA ve los datos que cargaron los demás en su repositorio?
 
 b-¿Si ALFA agrega un archivo los demás integrantes lo ven?
 Si, cada modificación se actualiza al repositorio.
+
+c-¿Si BETA agrega un archivo los demás integrantes lo ven?
+Si, después de cada modificación se realiza git push para actualizar el archivo
+
+d-¿Cual es la mejor forma de comunicarse entre ustedes dentro de github?
+Se realiza a través de git commit -m "mensaje", dando a informar lo ultimo que se modifico
